@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #020617;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+
+
+
+#hero {
+    width: 944px;
+    height: 356px;
+    top: 298px;
+    left: 248px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+
+#backby {
+    position: absolute;
+    width: 571.09px;
+height: 164.38px;
+top: 744px;
+left: 437.45px;
+gap: 0px;
+opacity: 0px;
+}
+
+#b1 {
+    position: absolute;
+    width: 661px;
+height: 100px;
+top: 817px;
+left: 389px;
+gap: 0px;
+border-radius: 32px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+#t1 {
+    position: absolute;
+    width: 944px;
+height: 212px;
+top: 1004px;
+left: 248px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+#t2 {
+    position: absolute;
+    width: 1104px;
+height: 372px;
+top: 1100px;
+left: 30px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+#poster1 {
+    position: absolute;
+    width: 1306.03px;
+height: 877.97px;
+top: 1809px;
+left: 198px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+#poster2 {
+    position: absolute;
+    width: 1264px;
+height: 446px;
+left: 35px;
+top: 2400px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+#card1 {
+    position: absolute;
+    width: 1192.62px;
+height: 1027.83px;
+top: 3157px;
+left: 35px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+#card2 {
+    position: absolute;
+    width: 1262px;
+height: 523px;
+top: 4176px;
+left: 40px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+#card3 {
+    position: absolute;
+    width: 1264px;
+height: 628px;
+top: 4843px;
+left: 38px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+#card4 {
+    position: absolute;
+    width: 1264px;
+height: 571px;
+top: 5616px;
+left: 39px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+#design {
+    position: absolute;
+    width: 1278px;
+height: 844.25px;
+top: 6332px;
+left: 38px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+#grid1 {
+    position: absolute;
+    width: 1262px;
+height: 436px;
+top: 7322px;
+left: 38px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+#cta {
+    position: absolute;
+    width: 1440px;
+    left: 38px;
+height: 868px;
+top: 7950px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+#bg {
+    position: absolute;
+    scale: 1.1;
+    top: 0px;
+    left: 36px;
+}
+
+#head {
+    position: absolute;
+    width: Fixed (1,104px)px;
+height: Fixed (80px)px;
+min-width: 1000px;
+top: 62px;
+left: 168px;
+padding: 10px 20px 10px 20px;
+gap: 0px;
+border-radius: 48px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+justify-content: space-between;
+opacity: 0px;
+
+}
+
